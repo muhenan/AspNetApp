@@ -2,6 +2,7 @@
 
 1. Install .NET SDK (using 6)
 2. Build and run the app: `dotnet build` and `dotnet run`
+   1. Also, there is `dotnet clean`
 
 ASP.NET Core is a web framework for building modern, cloud-based, internet-connected applications, such as web apps, APIs, and microservices.
 
